@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17873" appversion="6.1.2" start="node6">
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-62.2756" fovmode="0">
+      <start projection="4" tilt="-90" fov="89.09" pan="90.88"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node6" author="" copyright="" longitude="-72.183541" datetime="13/04/2023 15:58" customnodeid="" tags="main|nodisponible" latitude="-38.740744" title="Master cenital" info="$15.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.011,7m²&lt;br>&lt;b>Servidumbre:&lt;/b> 355,51 m²&lt;br>&lt;b> Sup. Parcial:&lt;/b> 4.676,19m²&lt;br>Superficie Plana ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <hotspot id="lote42" tilt="-47.45" url="{node8}" target="" skinid="ht_noDisponible" title="42" pan="-269.08" description=""/>
+      <hotspot id="lote41" tilt="-50.29" url="{node10}" target="" skinid="ht_disponible" title="41" pan="-262.26" description=""/>
+      <hotspot id="lote40" tilt="-50.77" url="{node11}" target="" skinid="ht_disponible" title="40" pan="-275.6" description=""/>
+      <hotspot id="Lote38" tilt="-53.87" url="{node13}" target="" skinid="ht_disponible" title="38" pan="-261.52" description=""/>
+      <hotspot id="Lote39" tilt="-54.11" url="{node12}" target="" skinid="ht_disponible" title="39" pan="-276.43" description=""/>
+      <hotspot id="Lote37" tilt="-57.6" url="{node14}" target="" skinid="ht_disponible" title="37" pan="-260.15" description=""/>
+      <hotspot id="Lote36" tilt="-57.74" url="{node20}" target="" skinid="ht_disponible" title="36" pan="-277.35" description=""/>
+      <hotspot id="Lote35" tilt="-61.65" url="{node18}" target="" skinid="ht_disponible" title="35" pan="-278.69" description=""/>
+      <hotspot id="Lote34" tilt="-61.82" url="{node15}" target="" skinid="ht_disponible" title="34" pan="-258.95" description=""/>
+      <hotspot id="Lote32" tilt="-65.92" url="{node19}" target="" skinid="ht_disponible" title="32" pan="-280.51" description=""/>
+      <hotspot id="Lote33" tilt="-66.01" url="{node17}" target="" skinid="ht_disponible" title="33" pan="-256.74" description=""/>
+      <hotspot id="Lote30" tilt="-70.48" url="{node48}" target="" skinid="ht_disponible" title="30" pan="-252.4" description=""/>
+      <hotspot id="Lote31" tilt="-70.33" url="{node46}" target="" skinid="ht_disponible" title="31" pan="-283.27" description=""/>
+      <hotspot id="Lote28" tilt="-75.12" url="{node47}" target="" skinid="ht_disponible" title="28" pan="-288.51" description=""/>
+      <hotspot id="Lote29" tilt="-75.08" url="{node49}" target="" skinid="ht_disponible" title="29" pan="-246.03" description=""/>
+      <hotspot id="Lote26" tilt="-79.83" url="{node50}" target="" skinid="ht_disponible" title="26" pan="-233.12" description=""/>
+      <hotspot id="Lote27" tilt="-79.93" url="{node51}" target="" skinid="ht_disponible" title="27" pan="-298.07" description=""/>
+      <hotspot id="Lote24" tilt="-83.74" url="{node52}" target="" skinid="ht_disponible" title="24" pan="-323.7" description=""/>
+      <hotspot id="Lote25" tilt="-83.24" url="{node10}" target="" skinid="ht_disponible" title="25" pan="-205.91" description=""/>
+      <hotspot id="Lote23" tilt="-84.49" url="{node55}" target="" skinid="ht_disponible" title="23" pan="-16.08" description=""/>
+      <hotspot id="Lote22" tilt="-83.76" url="{node53}" target="" skinid="ht_disponible" title="22" pan="-161.05" description=""/>
+      <hotspot id="Lote21" tilt="-80.94" url="{node54}" target="" skinid="ht_disponible" title="21" pan="-131.47" description=""/>
+      <hotspot id="Lote20" tilt="-81.33" url="{node56}" target="" skinid="ht_disponible" title="20" pan="-50.87" description=""/>
+      <hotspot id="Lote17" tilt="-74.69" url="{node57}" target="" skinid="ht_disponible" title="17" pan="-107.33" description=""/>
+      <hotspot id="Lote18" tilt="-75.24" url="{node58}" target="" skinid="ht_disponible" title="18" pan="-85.53" description=""/>
+      <hotspot id="Lote19" tilt="-74" url="{node59}" target="" skinid="ht_disponible" title="19" pan="-64.36" description=""/>
+      <hotspot id="Lote16" tilt="-71.15" url="{node30}" target="" skinid="ht_disponible" title="16" pan="-123.18" description=""/>
+      <hotspot id="Lote13" tilt="-66.96" url="{node60}" target="" skinid="ht_disponible" title="13" pan="-73.53" description=""/>
+      <hotspot id="Lote14" tilt="-68.05" url="{node61}" target="" skinid="ht_disponible" title="14" pan="-90.21" description=""/>
+      <hotspot id="Lote12" tilt="-61.68" url="{node60}" target="" skinid="ht_disponible" title="12" pan="-78.37" description=""/>
+      <hotspot distance="310.441" id="Lote10" tilt="-62.38" url="{node65}" target="" skinid="ht_disponible" title="10" pan="-103.29" description=""/>
+      <hotspot distance="275.578" id="Lote15" tilt="-66.61" url="{node63}" target="" skinid="ht_isponible" title="15" pan="-110.82" description=""/>
+      <hotspot distance="310.441" id="Lote11" tilt="-57.57" url="{node64}" target="" skinid="ht_disponible" title="11" pan="-79.9" description=""/>
+      <hotspot id="Lote9" tilt="-57.17" url="{node29}" target="" skinid="ht_disponible" title="9" pan="-105.26" description=""/>
+      <hotspot id="Lote8" tilt="-57.47" url="{node31}" target="" skinid="ht_disponible" title="8" pan="-94.33" description=""/>
+      <hotspot id="Lote5" tilt="-52.23" url="{node24}" target="" skinid="ht_noDisponible" title="5" pan="-91.11" description=""/>
+      <hotspot id="Lote4" tilt="-52.77" url="{node28}" target="" skinid="ht_disponible" title="4" pan="-100.2" description=""/>
+      <hotspot id="Lote3" tilt="-48.8" url="{node27}" target="" skinid="ht_disponible" title="3" pan="-101.06" description=""/>
+      <hotspot id="Lote2" tilt="-47.58" url="{node25}" target="" skinid="ht_disponible" title="2" pan="-92.65" description=""/>
+      <hotspot id="Lote6" tilt="-49.23" url="{node24}" target="" skinid="ht_noDisponible" title="6" pan="-81.93" description=""/>
+      <hotspot id="Lote7" tilt="-53.33" url="{node22}" target="" skinid="ht_disponible" title="7" pan="-80.73" description=""/>
+      <hotspot id="Lote1" tilt="-45.35" url="{node21}" target="" skinid="ht_disponible" title="1" pan="-82.32" description=""/>
+      <hotspot id="Point02" tilt="4.82" url="" target="_blank" skinid="ht_tag_georeferencia_largeRight" title="VOLCÁN LLAIMA" pan="-158" description="45.2 KM &lt;BR>&#xa;54 MIN"/>
+      <hotspot id="Point02" tilt="1.18" url="" target="_blank" skinid="ht_tag_georeferencia_smallRight" title="CONGUILLIO" pan="-164.68" description="65 KM &lt;BR>&#xa;1H 25MIN"/>
+      <hotspot id="Point02" tilt="2.11" url="" target="_blank" skinid="ht_tag_georeferencia_mediumRight" title="MELIPEUCO" pan="-190.48" description="77 KM &lt;BR>&#xa;1H 30MIN"/>
+      <hotspot id="Point03" tilt="-3.46" url="" target="_blank" skinid="ht_tag_georeferencia_b" title="VILCÚN" pan="-30.06" description="11KM&#xa;15 MIN"/>
+      <hotspot id="Point02" tilt="2.84" url="" target="_blank" skinid="ht_tag_georeferencia_mediumLeft" title="MALALCAHUELLO" pan="-152.04" description="102 KM KM &lt;BR>&#xa;1H 50MIN"/>
+      <hotspot id="Point02" tilt="-1.36" url="" target="_blank" skinid="ht_tag_georeferencia_largeLeft" title="SALTO QUEPE" pan="-120.43" description="45 KM &lt;BR>&#xa;45 MIN"/>
+      <hotspot id="Point02" tilt="1.78" url="" target="_blank" skinid="ht_tag_georeferencia_smallLeft" title="VOLCÁN LONQUIMAY" pan="-147.54" description="120 KM &lt;BR>&#xa;2H 10MIN"/>
+      <hotspot id="Point04" tilt="3.6" url="" target="_blank" skinid="ht_tag_georeferencia_largeRight" title="ICALMA" pan="-187.04" description="119KM&lt;br>&#xa;2H 27MIN"/>
+      <hotspot id="Point05" tilt="1.19" url="" target="_blank" skinid="ht_tag_georeferencia_mediumRight" title="VILLARRICA" pan="-217.66" description="94 KM&lt;br>&#xa;1H 50MIN"/>
+      <hotspot id="Point01" tilt="-0.94" url="" target="_blank" skinid="ht_tag_georeferencia_largeRight" title="LAGUNA QUEPE" pan="-123.63" description="44 KM &lt;br>&#xa;55MIN"/>
+      <hotspot id="Point05" tilt="2.56" url="" target="_blank" skinid="ht_tag_georeferencia_largeRight" title="VOLCÁN VILLARRICA" pan="-214.43" description="130 KM &lt;br>&#xa;2H 20 MIN"/>
+      <hotspot id="Point07" tilt="4.66" url="" target="_blank" skinid="ht_tag_georeferencia_largeLeft" title="CENTRO DE SKI LAS ARUCARIAS" pan="-154.71" description="50 KM &lt;br>&#xa;1H 5MIN"/>
+      <hotspot id="Point08" tilt="3.16" url="" target="_blank" skinid="ht_tag_georeferencia_mediumRight" title="CERRO COLORADO" pan="-161.18" description="55 KM &lt;br>&#xa;1H 25MIN"/>
+      <hotspot id="Point09" tilt="-3.83" url="" target="_blank" skinid="ht_tag_georeferencia_mediumRight" title="AGROTURISMO MILLANTÚ" pan="-51.23" description="12 KM &#xa;10MIN"/>
+      <hotspot id="Point10" tilt="-2.95" url="" target="_blank" skinid="ht_tag_georeferencia_largeRight" title="TEMUCO" pan="-325.43" description="47KM &#xa;55 MIN"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="24.980" type="5" alpha="80.000" pan="-19.600"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="147.391" fovmode="0">
+      <start projection="4" tilt="-30.38" fov="29.36" pan="14.09"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node7" author="" copyright="" longitude="-72.190881" datetime="13/04/2023 16:00" customnodeid="" tags="main" latitude="-38.734388" title="Master picado" info="$15.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.011,7m²&lt;br>&lt;b>Servidumbre:&lt;/b> 355,51 m²&lt;br>&lt;b> Sup. Parcial:&lt;/b> 4.676,19m²&lt;br>Superficie Plana ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <hotspot id="Point01" tilt="-22.03" url="{node10}" target="" skinid="ht_disponible" title="Lote 41" pan="-11.21" description="&lt;b>Sup. Total:&lt;/b> 5.011,7m²&lt;br>&lt;b>Servidumbre:&lt;/b> 335,51 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.676,19m²&lt;br>Superficie Plana ✓"/>
+      <hotspot id="Point01" tilt="-21.96" url="{node8}" target="" skinid="ht_disponible" title="Lote 42" pan="-14.71" description="&lt;b>Sup Parcial:&lt;/b> 9.116, 98 m²&lt;br>&#xa;&lt;b>Sup Serv:&lt;/b> 0&lt;br>&#xa;&lt;b>Total: &lt;/b> 9.116, 98 m²"/>
+      <hotspot id="Point01" tilt="-23.63" url="{node11}" target="" skinid="ht_disponible" title="Lote 40" pan="-14.74" description="OFERTA&lt;br>&lt;b>Sup. Total:&lt;/b> 5.03,10m²&lt;br>&lt;b>Servidumbre:&lt;/b> 176,82m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.826,28m²&lt;br>Superficie Plana, despejada ✓&#xa;$14.900.000"/>
+      <hotspot id="Point01" tilt="-24.31" url="{node12}" target="" skinid="ht_disponible" title="Lote 39" pan="-13.09" description="&lt;b>Sup. Total:&lt;/b> 5.008,37m²&lt;br>&lt;b>Servidumbre:&lt;/b> 176,48m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.831,89m²&lt;br>Superficie despejada, &lt;br> vista a un volcán &lt;br>$14.900.000"/>
+      <hotspot id="Point01" tilt="-22.76" url="{node13}" target="" skinid="ht_disponible" title="Lote 38" pan="-9.55" description="&lt;b>Sup. Total:&lt;/b> 5.001,91m²&lt;br>&lt;b>Servidumbre:&lt;/b> 176,78m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.825,13m²&lt;br>Superficie Plana, &lt;br> vista a un volcán &lt;br>$18.900.000"/>
+      <hotspot id="Point01" tilt="-23.42" url="{node14}" target="" skinid="ht_disponible" title="Lote 37" pan="-7.96" description="&lt;b>Sup Parcial:&lt;/b>4.829,57m² &lt;br>&#xa;&lt;b>Sup Serv:&lt;/b> 175,56m²&lt;br>&#xa;&lt;b>Total: &lt;/b> 5.005,13m²"/>
+      <hotspot id="Point01" tilt="-25.06" url="{node20}" target="" skinid="ht_disponible" title="Lote 36" pan="-11.48" description="&lt;b>Sup Parcial:&lt;/b>4.832,01m² &lt;br>&#xa;&lt;b>Sup Serv:&lt;/b> 175,36m²&lt;br>&#xa;&lt;b>Total: &lt;/b> 5.007,37m²"/>
+      <hotspot id="Point01" tilt="-25.82" url="{node18}" target="" skinid="ht_disponible" title="Lote 35" pan="-9.75" description="&lt;b>Sup Parcial:&lt;/b>4.831,06m² &lt;br>&#xa;&lt;b>Sup Serv:&lt;/b> 175,48m²&lt;br>&#xa;&lt;b>Total: &lt;/b> 5.006,54m²"/>
+      <hotspot id="Point01" tilt="-24.06" url="{node15}" target="" skinid="ht_disponible" title="Lote 34" pan="-6.27" description="&lt;b>Sup Parcial:&lt;/b>4.828,82m² &lt;br>&#xa;&lt;b>Sup Serv:&lt;/b> 175,64m²&lt;br>&#xa;&lt;b>Total: &lt;/b> 5.004,46m²"/>
+      <hotspot id="Point01" tilt="-24.77" url="{node17}" target="" skinid="ht_disponible" title="Lote 33" pan="-4.22" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-26.62" url="{node19}" target="" skinid="ht_disponible" title="Lote 32" pan="-7.64" description="&lt;b>Sup Parcial:&lt;/b>4.832,67m² &lt;br>&#xa;&lt;b>Sup Serv:&lt;/b> 175,60m²&lt;br>&#xa;&lt;b>Total: &lt;/b> 5.008,27m²"/>
+      <hotspot id="Point01" tilt="-25.55" url="{node48}" target="" skinid="ht_disponible" title="Lote 30" pan="-2.22" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-27.45" url="{node46}" target="" skinid="ht_disponible" title="Lote 31" pan="-5.03" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-28.07" url="{node47}" target="" skinid="ht_disponible" title="Lote 28" pan="-3.05" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-26.17" url="{node49}" target="" skinid="ht_disponible" title="Lote 29" pan="-0.09" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-26.81" url="{node50}" target="" skinid="ht_disponible" title="Lote 26" pan="-357.84" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-28.98" url="{node51}" target="" skinid="ht_disponible" title="Lote 27" pan="-0.57" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-27.62" url="{node10}" target="" skinid="ht_disponible" title="Lote 41" pan="-355.45" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-28.09" url="{node53}" target="" skinid="ht_disponible" title="Lote 22" pan="-352.58" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-28.65" url="{node54}" target="" skinid="ht_disponible" title="Lote 21" pan="-350.44" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-31.22" url="{node56}" target="" skinid="ht_disponible" title="Lote 20" pan="-353.1" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-31.36" url="{node58}" target="" skinid="ht_disponible" title="Lote 17" pan="-348.02" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-32.74" url="{node59}" target="" skinid="ht_disponible" title="Lote 19" pan="-349.07" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-29.62" url="{node52}" target="" skinid="ht_disponible" title="Lote 24" pan="-357.88" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-30.34" url="{node55}" target="" skinid="ht_disponible" title="Lote 23" pan="-355.5" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-29.83" url="{node57}" target="" skinid="ht_disponible" title="Lote 18" pan="-347.11" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-33.71" url="{node60}" target="" skinid="ht_disponible" title="Lote 13" pan="-343.54" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-28.61" url="{node30}" target="" skinid="ht_disponible" title="Lote 16" pan="-344.04" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-31.95" url="{node61}" target="" skinid="ht_disponible" title="Lote 14" pan="-342.67" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-29.71" url="{node10}" target="" skinid="ht_disponible" title="Lote 41" pan="-341.16" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-30.6" url="{node10}" target="" skinid="ht_disponible" title="Lote 10" pan="-338.53" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-30.31" url="{node29}" target="" skinid="ht_disponible" title="Lote 9" pan="-334.53" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-34.17" url="{node60}" target="" skinid="ht_disponible" title="Lote 12" pan="-339.39" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-35.14" url="{node10}" target="" skinid="ht_disponible" title="Lote 11" pan="-335.87" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-35.87" url="{node22}" target="" skinid="ht_disponible" title="Lote 7" pan="-331.11" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-32.4" url="{node31}" target="" skinid="ht_disponible" title="Lote 8" pan="-334.81" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-31.04" url="{node28}" target="" skinid="ht_disponible" title="Lote 4" pan="-330.14" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-33.44" url="{node24}" target="" skinid="ht_disponible" title="Lote 5" pan="-329.68" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-36.02" url="{node24}" target="" skinid="ht_disponible" title="Lote 6" pan="-326.59" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-36.25" url="{node21}" target="" skinid="ht_disponible" title="Lote 1" pan="-322.03" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-33.21" url="{node25}" target="" skinid="ht_disponible" title="Lote 2" pan="-324.81" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+      <hotspot id="Point01" tilt="-31.34" url="{node27}" target="" skinid="ht_disponible" title="Lote 3" pan="-326.72" description="&lt;b>Sup Parcial:&lt;/b>4.828,37m² &lt;br>&#xa;&lt;b>Total:&lt;/b> 5.004,06m² &lt;br>&#xa;&lt;b>Precio:&lt;/b> $"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="154.053" fovmode="0">
+      <start projection="4" tilt="-15.67" fov="70" pan="-157.01"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node21" author="" copyright="" longitude="" datetime="" customnodeid="lote1" tags="mostrar" latitude="" title="Lote 1" info="$15.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.011,7m²&lt;br>&lt;b>Servidumbre:&lt;/b> 335,51 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.676,19m²&lt;br>Superficie Plana ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-205.84/-0.38|-293.69/-5.32|-358.66/-4.84|-144.05/3.68</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="18.360" type="1" alpha="80.000" pan="-168.870"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="127.098" fovmode="0">
+      <start projection="4" tilt="-13.85" fov="70" pan="156.61"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node25" author="" copyright="" longitude="" datetime="" customnodeid="lote02" tags="mostrar" latitude="" title="Lote 2" info="$15.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.000,12m²&lt;br>&lt;b>Servidumbre:&lt;/b> 456,61 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.535,39m²&lt;br>Superficie Plana ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-354.13/-3.36|-18.63/-5.14|-94.16/-12.13|-166.93/-2.12|-185.62/-1.73|-266.51/-2.33|-321.34/1.86</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="12.990" type="1" alpha="80.000" pan="-174.940"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="59.8913" fovmode="0">
+      <start projection="4" tilt="-20.7" fov="70" pan="82.99"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node27" author="" copyright="" longitude="" datetime="" customnodeid="lote03" tags="mostrar" latitude="" title="Lote 3" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.007,77m²&lt;br>&lt;b>Servidumbre:&lt;/b> 306,29 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.720,84m²&lt;br>Superficie Plana ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-101.84/7.37|-199.32/-9.61|-243.58/-8.85|-306.43/-8.75|-348.58/-5.43|-38.38/0.4</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="18.200" type="1" alpha="80.000" pan="-255.250"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-15.7308" fovmode="0">
+      <start projection="4" tilt="-16.58" fov="76.67" pan="158.67"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node28" author="" copyright="" longitude="" datetime="" customnodeid="lote04" tags="mostrar" latitude="" title="Lote 4" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.003,44m²&lt;br>&lt;b>Servidumbre:&lt;/b> 551,81 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.448,47m²&lt;br>Superficie Plana ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-120.1/-7.17|-202.65/1.6|-263.72/-4.39|-302.15/-5.18|-23.55/-18.22</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="10.250" type="1" alpha="80.000" pan="-333.370"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="128.308" fovmode="0">
+      <start projection="4" tilt="-23.98" fov="70" pan="52.56"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node24" author="" copyright="" longitude="" datetime="" customnodeid="lote06" tags="mostrar|nodisponible" latitude="" title="Lote 6" info="$15.900.000" description="NO DISPONIBLE"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-239.98/-9.52|-317.8/-8.17|-347.21/-8.47|-36.97/-71.92|-130.62/-33.92</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="18.800" type="1" alpha="80.000" pan="-170.990"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-197.781" fovmode="0">
+      <start projection="4" tilt="-3.18" fov="90.87" pan="96.38"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node22" author="" copyright="" longitude="" datetime="" customnodeid="lote07" tags="mostrar" latitude="" title="Lote 7" info="$18.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.001,28m²&lt;br>&lt;b>Servidumbre:&lt;/b> 269,71 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.731,57m²&lt;br>Superficie Plana ✓&lt;br>Quinta con arboles"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-118.71/1.49|-164.24/-2.8|-246.37/-3.19|-264.66/-3.63|-4.72/-0.71|-69.09/0.7</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="22.5837" fovmode="0">
+      <start projection="4" tilt="-33.08" fov="104.09" pan="64.89"/>
+      <flyin projection="4" tilt="-41.83" fov="90.87" pan="136.21"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node31" author="" copyright="" longitude="" datetime="" customnodeid="lote08" tags="mostrar" latitude="" title="Lote 8" info="$16.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.067,35m²&lt;br>&lt;b>Servidumbre:&lt;/b> 338,95 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.726,75m²&lt;br>Lomaje, estero y arboleada"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-331.2/-39.07|-72.52/-41.73|-150.25/-35.86|-221.92/-46.77|-230.43/-49.97|-242.65/-53.39|-253.11/-54.93|-267.36/-52.82|-276.69/-50.54|-285.25/-48.62|-289.91/-47.5|-295.29/-46.05|-299.58/-44.68|-304.66/-43.8</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="4.490" type="1" alpha="80.000" pan="-294.700"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-63.6025" fovmode="0">
+      <start projection="4" tilt="-29.49" fov="70" pan="-52.91"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node29" author="" copyright="" longitude="" datetime="" customnodeid="lote09" tags="mostrar" latitude="" title="Lote 9" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.002,25m²&lt;br>&lt;b>Servidumbre:&lt;/b> 0m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 5.002,25m²&lt;br>Lomaje, linda vista&#xa;"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-142.48/-11.63|-79.61/-13.16|-63.81/-12.7|-359.01/-14.74|-337.06/-16.15|-296.43/-13.12|-280.23/-17.13</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="13.920" type="1" alpha="80.000" pan="-46.530"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node65">
+    <input leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node65" author="" copyright="" longitude="-72.183160" datetime="01/01/1970 0:00" customnodeid="lote10" tags="mostrar|nodisponible" latitude="-38.737968" title="Lote 10" info="" description="NO DISPONIBLE"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="85.490" type="1" alpha="80.000" pan="-195.420"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node64">
+    <input leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-9.39" fov="70" pan="-18.64"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node64" author="" copyright="" longitude="-72.183160" datetime="01/01/1970 0:00" customnodeid="lote11" tags="" latitude="-38.737968" title="Lote 11" info="$15.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.004,82m²&lt;br>&lt;b>Servidumbre:&lt;/b> 266,56m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.738,26m²&lt;br>Superficie plana, soleada, bosque✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="88.940" type="1" alpha="80.000" pan="-296.980"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node62">
+    <input leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node62" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="lote12" tags="mostrar" latitude="" title="Lote 12" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.008,78m²&lt;br>&lt;b>Servidumbre:&lt;/b> 14,81m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.993,97m²&lt;br>Loma suave, despejada, soleada✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-313.66/-5.87|-349.32/-5.26|-35.92/1.69|-42.76/3.89|-142.28/8.98|-160.04/2.33|-167.82/3.23|-174.08/3.18|-205.02/-2.23|-307.04/-6.01</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="19.170" type="1" alpha="80.000" pan="-206.350"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node60">
+    <input leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-197.125" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node60" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="lote13" tags="mostrar" latitude="" title="Lote 13" info="$18.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.008,78m²&lt;br>&lt;b>Servidumbre:&lt;/b> 14,81m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.993,97m²&lt;br>Superficie plana, soleada✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-255.37/-6.07|-167.44/-5.87|-72.37/0.8|-332.83/-1.81</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="28.080" type="1" alpha="80.000" pan="-147.050"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node61">
+    <input leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="296.222" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="lote14" nodeid="node61" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="" tags="mostrar" latitude="" title="Lote 14" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.191,62m²&lt;br>&lt;b>Servidumbre:&lt;/b> 469,02 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.722,61m²&lt;br>Loma suave, soleada, despejada&#xa;"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-232.07/3.32|-202.91/-0.77|-174.19/-6.08|-96.3/-9.69|-52.62/-5.06|-23.38/-3.26</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="23.000" type="1" alpha="80.000" pan="-356.900"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node63">
+    <input leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-13.93" fov="35.95" pan="-65.68"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node63" author="" copyright="" longitude="-72.182160" datetime="01/01/1970 0:00" customnodeid="lote15" tags="mostrar|nodisponible" latitude="-38.738512" title="Lote 15" info="" description="NO DISPONIBLE"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="21.200" type="1" alpha="80.000" pan="-96.190"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" width="2048" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-129.424" fovmode="0">
+      <start projection="4" tilt="-35.66" fov="65.77" pan="31.55"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node30" author="" copyright="" longitude="" datetime="" customnodeid="lote16" tags="mostrar|nodisponible" latitude="" title="Lote 16" info="$15.900.000" description="NO DISPONIBLE"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="13.130" type="1" alpha="80.000" pan="-79.860"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node58">
+    <input leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-103.611" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node58" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="lote17" tags="mostrar" latitude="" title="Lote 17" info="$15.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.002,03m²&lt;br>&lt;b>Servidumbre:&lt;/b> 190,38 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.811,65m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista al volcán✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-195.63/-10.25|-188.54/-10.01|-139.91/-7.17|-129.73/-6.69|-86.88/-1.39|-340.91/1.03|-277.83/-0.85</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="33.000" type="1" alpha="80.000" pan="-78.730"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node57">
+    <input leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="93.1617" fovmode="0">
+      <start projection="4" tilt="-2.77" fov="72.69" pan="104.19"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node57" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="lote18" tags="mostrar" latitude="0.00000000" title="Lote 18" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.033,36m²&lt;br>&lt;b>Servidumbre:&lt;/b> 571,92 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.461,44m²&lt;br>Despejada, soleada"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-315.14/-5.74|-248.09/1.14|-184.97/3.01|-122.34/-1.26</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="16.030" type="1" alpha="80.000" pan="-225.590"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node59">
+    <input leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node59" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="lote19" tags="mostrar" latitude="" title="Lote 19" info="$19.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.008,31²&lt;br>&lt;b>Servidumbre:&lt;/b> 21 m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.987,31m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista a 3 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-156.79/-4.41|-55.45/-1.9|-345.25/-1.01|-280.32/-3.37</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="39.230" type="1" alpha="80.000" pan="-75.910"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node56">
+    <input leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node56" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="lote20" tags="mostrar" latitude="" title="Lote 20" info="$19.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.003,13m²&lt;br>&lt;b>Servidumbre:&lt;/b> 343,25m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.659,88m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista a 2 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-98.95/-1.4|-155.92/-1.4|-283.87/-3.84|-357.44/-3.97</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="14.010" type="1" alpha="80.000" pan="-136.010"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node54">
+    <input leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="lote21" nodeid="node54" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="" tags="mostrar" latitude="" title="Lote 21" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.003,82m²&lt;br>&lt;b>Servidumbre:&lt;/b> 405,21m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.598,61m²&lt;br>Superficie Plana, soleada, despejada✓ "/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-328.04/-4.48|-89.22/1.68|-156.64/0.67|-283.22/-5.12</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="16.310" type="1" alpha="80.000" pan="-135.760"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node53">
+    <input leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="lote22" nodeid="node53" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="" tags="mostrar" latitude="" title="Lote 22" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.002,57m²&lt;br>&lt;b>Servidumbre:&lt;/b> 174,08m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.828,49m²&lt;br>Superficie Plana, soleada, despejada ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-336.1/-3.79|-96.47/-0.04|-157.06/1.7|-295.14/-3.98</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="17.560" type="1" alpha="80.000" pan="-145.550"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node55">
+    <input leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="lote23" nodeid="node55" author="" copyright="" longitude="" datetime="20/04/2023 12:47" customnodeid="" tags="mostrar" latitude="" title="Lote 23" info="$19.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.020,33m²&lt;br>&lt;b>Servidumbre:&lt;/b>174,08m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.846,25m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista a 2 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-110.29/1.92|-160.92/0.78|-279.8/-5.33|-337.86/-4.63</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="17.610" type="1" alpha="80.000" pan="-142.670"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node52">
+    <input leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="lote24" nodeid="node52" author="" copyright="" longitude="" datetime="" customnodeid="" tags="mostrar|Nivel piso retocadas" latitude="" title="Lote 24" info="$19.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.001,12m²&lt;br>&lt;b>Servidumbre:&lt;/b> 174,10m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.827,02m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista a 2 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-154.41/-2.07|-230.51/-0.04|-347.14/-2.89|-45.38/-4.19</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="17.860" type="1" alpha="80.000" pan="-211.880"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node50">
+    <input leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="lote26" nodeid="node50" author="" copyright="" longitude="" datetime="" customnodeid="" tags="mostrar" latitude="" title="Lote 26" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.002,16m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,79m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.826,37m²&lt;br>Superficie Plana, soleada, despejada ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-322.71/-0.85|-356.46/-1.95|-72/-6.73|-128.72/1.91|-207.33/5.28|-242.5/1.79|-276.07/-2.78</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="19.290" type="1" alpha="80.000" pan="-175.420"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node51">
+    <input leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node51" author="" copyright="" longitude="" datetime="" customnodeid="lote27" tags="mostrar" latitude="" title="Lote 27" info="$19.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.004,87m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,84m²&lt;br>&lt;b> Sup. Parcial:&lt;/b>4.829,03m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista a 2 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-312.76/-3.07|-12.98/-2.23|-120.72/-3.86|-194.5/-2.6</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="17.410" type="1" alpha="80.000" pan="-177.310"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node47">
+    <input leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node47" author="" copyright="" longitude="" datetime="" customnodeid="lote28" tags="mostrar" latitude="" title="Lote 28" info="$19.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.001,45m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,73m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.825,72m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista a 2 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-290.86/-2.05|-18.6/-5.28|-108.31/-1.47|-194.31/-0.81</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="30.000" type="1" alpha="80.000" pan="-184.230"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node49">
+    <input leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node49" author="" copyright="" longitude="" datetime="" customnodeid="lote29" tags="mostrar" latitude="" title="Lote 29" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.003,54m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,71m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.827,83m²&lt;br>Superficie Plana, despejada ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="18.770" type="1" alpha="80.000" pan="-304.720"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node48">
+    <input leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node48" author="" copyright="" longitude="" datetime="" customnodeid="lote30" tags="mostrar" latitude="" title="Lote 30" info="$15.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.000,19m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,26m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.824,93m²&lt;br>Superficie Plana, despejada, soleada✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="28.730" type="1" alpha="80.000" pan="-153.120"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node46">
+    <input leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node46" author="" copyright="" longitude="" datetime="" customnodeid="lote31" tags="mostrar" latitude="" title="Lote 31" info="$18.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.012,41m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,25m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.837,16m²&lt;br> Loma suave &lt;br>Vista a 1 volcán ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="31.900" type="1" alpha="80.000" pan="-229.140"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node19" author="" copyright="" longitude="" datetime="" customnodeid="lote32" tags="mostrar" latitude="" title="Lote 32" info="$19.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.008,27m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,60m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.832,67m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista a 2 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-86.21/-12.31|-169.06/-2.69|-288.77/4.24|-25.91/-10.12</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="33.240" type="1" alpha="80.000" pan="-271.300"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node17" author="" copyright="" longitude="" datetime="" customnodeid="lote33" tags="mostrar" latitude="" title="Lote 33" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b>5.004,06m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,69m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.828,37,19m²&lt;br>Loma, vista a 1 volcán ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="42.660" type="1" alpha="80.000" pan="-279.960"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-13.9" fov="70" pan="-121.36"/>
+      <flyin projection="4" tilt="-7.71" fov="70" pan="-111.68"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node15" author="" copyright="" longitude="" datetime="" customnodeid="lote34" tags="mostrar" latitude="" title="Lote 34" info="$18.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.004,46m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,64m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.828,82m²&lt;br>Superficie Plana, soleada ✓ &lt;br>Vista a 2 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-281.72/1.57|-170.97/-5.95|-134.39/-10.7|-121.95/-10.75|-352.83/-2.41|-346.53/-2.04|-305.32/1.95</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="41.650" type="1" alpha="80.000" pan="-183.650"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node18" author="" copyright="" longitude="" datetime="" customnodeid="lote35" tags="mostrar" latitude="" title="Lote 35" info="$19.900.000" description="PREMIUM&lt;br>&lt;b>Sup. Total:&lt;/b> 5.006,54m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,48m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.831,06m²&lt;br>Superficie Plana✓ &lt;br>Vista a 2 volcanes✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-354.26/-12.65|-64.68/-4.15|-68.94/-3.14|-97.58/-4.29|-142.55/0.29|-171.52/3.46|-205.03/4.99|-206.44/4.6|-299.69/-9.29</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="34.580" type="1" alpha="80.000" pan="-179.110"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node20" author="" copyright="" longitude="" datetime="" customnodeid="lote36" tags="mostrar" latitude="" title="Lote 36" info="$18.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.007,37m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,36m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.832,01m²&lt;br>Loma suave, vista a 2 volcanes"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-268.52/0.05|-168.43/-8.96|-72.48/-9.54|-7.99/-7.97|-279.64/1.76</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="39.260" type="1" alpha="80.000" pan="-248.990"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-16.44" fov="70" pan="-96.37"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node14" author="" copyright="" longitude="" datetime="" customnodeid="lote37" tags="mostrar" latitude="" title="Lote 37" info="$18.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.005,13m²&lt;br>&lt;b>Servidumbre:&lt;/b> 175,56m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.829,57m²&lt;br>Superficie Plana, &lt;br> vista a un volcán ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-183.7/-5.09|-207.59/-1.69|-217.61/-0.94|-226.76/-0.56|-238.13/-0.36|-246.88/0.13|-260.44/0.8|-344.08/-0.96|-1.47/-5.06|-44.06/-10.2|-67.23/-9.94|-125.82/-11.36|-134.62/-11.12</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="42.090" type="1" alpha="80.000" pan="-149.750"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-7.22" fov="70" pan="137.14"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node13" author="" copyright="" longitude="" datetime="" customnodeid="lote38" tags="mostrar" latitude="" title="Lote 38" info="$18.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.001,91m²&lt;br>&lt;b>Servidumbre:&lt;/b> 176,78m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.825,13m²&lt;br>Superficie Plana, &lt;br> vista a un volcán"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-344.96/-9.45|-338.14/-9.71|-322.14/-8.06|-285.27/-1.67|-244.22/-1.21|-207.12/-0.01|-166.86/0.53</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="39.390" type="1" alpha="80.000" pan="-16.100"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="76" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node12" author="" copyright="" longitude="" datetime="" customnodeid="lote39" tags="mostrar" latitude="" title="Lote 39" info="$14.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.008,37m²&lt;br>&lt;b>Servidumbre:&lt;/b> 176,48m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.831,89m²&lt;br>Superficie despejada, &lt;br> vista a un volcán"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-157.78/-4.67|-212.71/-3.2|-337.32/-3.55|-15.19/-2.16|-46.74/2.01|-105.33/-4.97</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="39.640" type="1" alpha="80.000" pan="-236.570"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-3.46" fov="76" pan="-41.59"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node11" author="" copyright="" longitude="" datetime="" customnodeid="lote40" tags="mostrar" latitude="" title="Lote 40" info="$14.900.000" description="OFERTA&lt;br>&lt;b>Sup. Total:&lt;/b> 5.03,10m²&lt;br>&lt;b>Servidumbre:&lt;/b> 176,82m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.826,28m²&lt;br>Superficie Plana, despejada ✓"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-38.25/-4.73|-134.5/-2.93|-169.97/2.29|-238.21/1.12|-292.49/-6.95|-349.36/-6.31</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="40.490" type="1" alpha="80.000" pan="-75.230"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="3.57" fov="76" pan="102.97"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node10" author="" copyright="" longitude="" datetime="" customnodeid="lote41" tags="mostrar" latitude="" title="Lote 41" info="$18.900.000" description="&lt;b>Sup. Total:&lt;/b> 5.001,36m²&lt;br>&lt;b>Servidumbre:&lt;/b> 177,25m²&lt;br>&lt;b>Sup. Parcial:&lt;/b> 4.824,11m²&lt;br>Superficie Plana, &lt;br> vista a un volcán"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-272.66/-2.69|-28/-1.93|-84.03/-1.45|-217.51/-3.33</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="40.370" type="1" alpha="80.000" pan="-299.470"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingroll="0" levelbias="0.400" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="2.08" fov="76" pan="26.81"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fov="120" scaletofit="1" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" nodeid="node8" author="" copyright="" longitude="" datetime="" customnodeid="lote42" tags="mostrar|nodisponible" latitude="" title="Lote 42" info="$15.900.000" description="NO DISPONIBLE"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" height="20" textalpha="1" wordwrap="1" borderradius="1" width="180" border="1" enabled="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="0" backgroundalpha="0.0392157" backgroundcolor="0x0000ff" mode="1" bordercolor="0xffffff"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-219.33/1.71|-353.69/-6.15|-17.75/-6.29|-158.33/0.28</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare blinding="50.000" color="0xffffff" id="Lensflare01" tilt="39.360" type="1" alpha="80.000" pan="-64.640"/>
+    </media>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1" zoomout="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" contextfullscreen="1" sensitivity="8" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata source="" comment="" nodeid="master" author="" copyright="" longitude="" datetime="" customnodeid="" tags="" latitude="" title="Valle del sol" info="" description="Parcelas"/>
+  </masternode>
+</tour>
